@@ -1,0 +1,30 @@
+.order-form {
+  border: 1px solid #523b3b;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+
+.add-to-cart-btn {
+  margin-top: 20px;
+}
+
+.button-group {
+  display: flex;
+  gap: 5px; 
+  margin-top: 20px; 
+}
+
+.form-wrapper {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+

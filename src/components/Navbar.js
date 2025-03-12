@@ -11,9 +11,9 @@ const NavigationBar = ({ user }) => {
         <Navbar.Brand as={Link} to="/">
           <img
             src={logo}
-            width="30"
-            height="30"
-            className="d-inline-block align-top"
+            width="50"
+            height="50"
+            className="h-full rounded-full absolute left-[10px]"
             alt="Sri Lanka Railway"
           />
           Sri Lanka Railway Canteen Service
